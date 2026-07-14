@@ -1,2 +1,2 @@
-# Gene_Plot
+# Karyotype Gene Plot
 Karyotype Gene Plot
