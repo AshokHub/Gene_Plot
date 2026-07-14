@@ -7,3 +7,5 @@ a GRanges with regioneR's `toGRanges` and since our genome is from UCSC, we'll
 need to change the chromosome name style from Ensembl to UCSC with
 `seqlevelsStyle`. We'll use genome GRCh38, the one used in the current biomart
 version.
+
+[![N|Solid](https://raw.githubusercontent.com/AshokHub/Gene_Plot/main/GenePlot.jpg)](https://github.com/AshokHub/Gene_Plot)
